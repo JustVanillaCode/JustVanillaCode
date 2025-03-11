@@ -22,3 +22,6 @@ I am currently studiying in High School, I am a techy geek and an fgpa and AI en
 [![](https://visitcount.itsvg.in/api?id=JustVanillaCode&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/JustVanillaCode/JustVanillaCode/blob/output/github-snake-dark.svg)
