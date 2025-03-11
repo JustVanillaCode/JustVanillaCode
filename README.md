@@ -1,9 +1,9 @@
 # 💫 About Me:
 I am currently studiying in High School, I am a techy geek and an fgpa and AI enthusiast.
 
+# Social
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0mythicalvibes0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athrvsharma.hyd@gmail.com) 
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athrvsharma.hyd@gmail.com) 
 
 # 💻 Tech Stack:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
